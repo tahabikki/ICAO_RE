@@ -1,0 +1,16 @@
+*.ipynb
+*.png
+*.pyc
+*.gradio
+*.safetensors
+examples/inference/ckpts/*
+examples/inference/examples/*
+envs/*
+checkpoints/*
+*.sh
+
+.venv/
+ckpts/
+output/
+__pycache__/
+*.pyc
