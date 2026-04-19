@@ -6,3 +6,4 @@ transformers==4.42.3
 Pillow==11.3.0
 einops==0.7.0
 safetensors==0.7.0
+lpips==0.1.4
